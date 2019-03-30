@@ -1,0 +1,7 @@
+{% extends 'README.rst.jj2' %}
+
+{% block documentation_link %}
+{% endblock %}
+
+{% block features %}The project packages `echart-gansu-js <https://github.com/echarts-maps/echart-gansu-js>`_ and distributes it via pypi.
+{% endblock %}

@@ -1,0 +1,4 @@
+include README.rst
+include CHANGELOG.rst
+include echart_gansu_pypkg/resources/echart-gansu-js/*.js
+include echart_gansu_pypkg/resources/registry.json

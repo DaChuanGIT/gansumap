@@ -1,0 +1,16 @@
+name: "echart-gansu-pypkg"
+organisation: "https://github.com/DaChuanGIT/gansumap/tree/gh-pages"
+author: "DC"
+contact: "1769462507@qq.com"
+company: "dc"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2019
+license: MIT
+nowheel: true
+nodocs: true
+dependencies:
+  - lml>=0.0.2
+  - pyecharts-jupyter-installer==0.0.3
+description: "a map of gansu about py"
